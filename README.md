@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Araújo.
 - 👀 I’m interested in JavaScript, Java, Linux and networks.
-- 🌱 I’m currently learning Javascript/Typescript and node.js.
+- 🌱 I’m currently learning Java and Spring.
 - 💞️ I’m looking to collaborate on any open project so I can learn on a more practical approach.
 - 📫 How to reach me: matheusaraujo.lucas@gmail.com.
 
